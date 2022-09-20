@@ -14,6 +14,6 @@ public class App
     {
     	logger.info( "Welcome to Address Book Program" );
     	AddressBook book=new AddressBook();
-    	book.creatContact();
+    	book.showMainMenu();
     }
 }
