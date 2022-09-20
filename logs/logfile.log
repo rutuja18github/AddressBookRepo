@@ -1,0 +1,451 @@
+INFO  | 2022-09-20 15:20:10 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:22:10 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:42:47 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:42:47 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:42:47 | [main] book.AddressBook (AddressBook.java:15) - 2. Edit person
+INFO  | 2022-09-20 15:42:47 | [main] book.AddressBook (AddressBook.java:16) - 3. Delet person
+INFO  | 2022-09-20 15:42:47 | [main] book.AddressBook (AddressBook.java:17) - 4. Show all contacts
+INFO  | 2022-09-20 15:43:15 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:43:15 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:43:15 | [main] book.AddressBook (AddressBook.java:15) - 2. Edit person
+INFO  | 2022-09-20 15:43:15 | [main] book.AddressBook (AddressBook.java:16) - 3. Delet person
+INFO  | 2022-09-20 15:43:15 | [main] book.AddressBook (AddressBook.java:17) - 4. Show all contacts
+INFO  | 2022-09-20 15:43:15 | [main] book.AddressBook (AddressBook.java:18) - 5. Close program
+INFO  | 2022-09-20 15:43:52 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:43:52 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:43:52 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:43:52 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:43:56 | [main] book.AddressBook (AddressBook.java:42) - Enter First name: 
+INFO  | 2022-09-20 15:44:00 | [main] book.AddressBook (AddressBook.java:44) - Enter Last name: 
+INFO  | 2022-09-20 15:44:01 | [main] book.AddressBook (AddressBook.java:46) - Enter Address: 
+INFO  | 2022-09-20 15:44:07 | [main] book.AddressBook (AddressBook.java:48) - Enter City: 
+INFO  | 2022-09-20 15:44:10 | [main] book.AddressBook (AddressBook.java:50) - Enter State: 
+INFO  | 2022-09-20 15:44:13 | [main] book.AddressBook (AddressBook.java:52) - Enter Zip Number: 
+INFO  | 2022-09-20 15:44:16 | [main] book.AddressBook (AddressBook.java:54) - Enter phone number: 
+INFO  | 2022-09-20 15:44:16 | [main] book.AddressBook (AddressBook.java:58) - [Contact [firstName=ru, lastName=pa, address=gh, city=vb, state=hg, zip=123, phone=]]
+INFO  | 2022-09-20 15:44:32 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:44:32 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:44:32 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:44:32 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:44:34 | [main] book.AddressBook (AddressBook.java:42) - Enter First name: 
+INFO  | 2022-09-20 15:44:36 | [main] book.AddressBook (AddressBook.java:44) - Enter Last name: 
+INFO  | 2022-09-20 15:44:37 | [main] book.AddressBook (AddressBook.java:46) - Enter Address: 
+INFO  | 2022-09-20 15:44:38 | [main] book.AddressBook (AddressBook.java:48) - Enter City: 
+INFO  | 2022-09-20 15:44:40 | [main] book.AddressBook (AddressBook.java:50) - Enter State: 
+INFO  | 2022-09-20 15:44:43 | [main] book.AddressBook (AddressBook.java:52) - Enter Zip Number: 
+INFO  | 2022-09-20 15:44:45 | [main] book.AddressBook (AddressBook.java:54) - Enter phone number: 
+INFO  | 2022-09-20 15:44:45 | [main] book.AddressBook (AddressBook.java:58) - [Contact [firstName=pa, lastName=ld, address=kf, city=ld, state=hg, zip=55, phone=]]
+INFO  | 2022-09-20 15:45:21 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:45:21 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:45:21 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:45:21 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:45:25 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:45:28 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:45:30 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:45:32 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:45:42 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:45:46 | [main] book.AddressBook (AddressBook.java:42) - Enter First name: 
+INFO  | 2022-09-20 15:45:49 | [main] book.AddressBook (AddressBook.java:44) - Enter Last name: 
+INFO  | 2022-09-20 15:45:54 | [main] book.AddressBook (AddressBook.java:46) - Enter Address: 
+INFO  | 2022-09-20 15:45:57 | [main] book.AddressBook (AddressBook.java:48) - Enter City: 
+INFO  | 2022-09-20 15:46:00 | [main] book.AddressBook (AddressBook.java:50) - Enter State: 
+INFO  | 2022-09-20 15:46:02 | [main] book.AddressBook (AddressBook.java:52) - Enter Zip Number: 
+INFO  | 2022-09-20 15:46:05 | [main] book.AddressBook (AddressBook.java:54) - Enter phone number: 
+INFO  | 2022-09-20 15:46:05 | [main] book.AddressBook (AddressBook.java:58) - [Contact [firstName=kj, lastName=mb, address=lk, city=,jk, state=lk, zip=23, phone=]]
+INFO  | 2022-09-20 15:46:40 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:46:40 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:46:40 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:46:40 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:46:46 | [main] book.AddressBook (AddressBook.java:42) - Enter First name: 
+INFO  | 2022-09-20 15:46:52 | [main] book.AddressBook (AddressBook.java:44) - Enter Last name: 
+INFO  | 2022-09-20 15:46:54 | [main] book.AddressBook (AddressBook.java:46) - Enter phone number: 
+INFO  | 2022-09-20 15:46:57 | [main] book.AddressBook (AddressBook.java:48) - Enter Address: 
+INFO  | 2022-09-20 15:46:59 | [main] book.AddressBook (AddressBook.java:50) - Enter City: 
+INFO  | 2022-09-20 15:47:02 | [main] book.AddressBook (AddressBook.java:52) - Enter State: 
+INFO  | 2022-09-20 15:47:05 | [main] book.AddressBook (AddressBook.java:54) - Enter Zip Number: 
+INFO  | 2022-09-20 15:47:10 | [main] book.AddressBook (AddressBook.java:58) - [Contact [firstName=po, lastName=po, address=jh, city=kh, state=lk, zip=123, phone=56]]
+INFO  | 2022-09-20 15:47:10 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:49:26 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:49:26 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:49:26 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:49:26 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:49:30 | [main] book.AddressBook (AddressBook.java:42) - Enter First name: 
+INFO  | 2022-09-20 15:49:32 | [main] book.AddressBook (AddressBook.java:44) - Enter Last name: 
+INFO  | 2022-09-20 15:49:34 | [main] book.AddressBook (AddressBook.java:46) - Enter phone number: 
+INFO  | 2022-09-20 15:49:35 | [main] book.AddressBook (AddressBook.java:48) - Enter Address: 
+INFO  | 2022-09-20 15:49:36 | [main] book.AddressBook (AddressBook.java:50) - Enter City: 
+INFO  | 2022-09-20 15:49:39 | [main] book.AddressBook (AddressBook.java:52) - Enter State: 
+INFO  | 2022-09-20 15:49:40 | [main] book.AddressBook (AddressBook.java:54) - Enter Zip Number: 
+INFO  | 2022-09-20 15:49:45 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:49:45 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:49:45 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:49:45 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:13 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:50:13 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:50:13 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:50:13 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:50:17 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:18 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:19 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:20 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:22 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:31 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:50:38 | [main] book.AddressBook (AddressBook.java:43) - Enter First name: 
+INFO  | 2022-09-20 15:51:10 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:51:10 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:51:10 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:51:10 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:51:14 | [main] book.AddressBook (AddressBook.java:44) - Enter First name: 
+INFO  | 2022-09-20 15:51:17 | [main] book.AddressBook (AddressBook.java:46) - Enter Last name: 
+INFO  | 2022-09-20 15:51:19 | [main] book.AddressBook (AddressBook.java:48) - Enter phone number: 
+INFO  | 2022-09-20 15:51:20 | [main] book.AddressBook (AddressBook.java:50) - Enter Address: 
+INFO  | 2022-09-20 15:51:22 | [main] book.AddressBook (AddressBook.java:52) - Enter City: 
+INFO  | 2022-09-20 15:51:24 | [main] book.AddressBook (AddressBook.java:54) - Enter State: 
+INFO  | 2022-09-20 15:51:25 | [main] book.AddressBook (AddressBook.java:56) - Enter Zip Number: 
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:51:28 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:51:51 | [main] book.AddressBook (AddressBook.java:26) - [Contact [firstName=ru, lastName=fg, address=gh, city=dj, state=fj, zip=123, phone=kd]]
+INFO  | 2022-09-20 15:51:51 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:51:51 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:51:51 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:52:31 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:52:31 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:52:31 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:52:31 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:52:36 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:52:36 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:52:36 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:52:36 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:52:54 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:52:54 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:52:54 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:52:54 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:52:58 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:52:58 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:52:58 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:52:58 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:53:29 | [main] book.AddressBook (AddressBook.java:44) - Enter First name: 
+INFO  | 2022-09-20 15:53:32 | [main] book.AddressBook (AddressBook.java:46) - Enter Last name: 
+INFO  | 2022-09-20 15:53:34 | [main] book.AddressBook (AddressBook.java:48) - Enter phone number: 
+INFO  | 2022-09-20 15:53:37 | [main] book.AddressBook (AddressBook.java:50) - Enter Address: 
+INFO  | 2022-09-20 15:53:40 | [main] book.AddressBook (AddressBook.java:52) - Enter City: 
+INFO  | 2022-09-20 15:53:45 | [main] book.AddressBook (AddressBook.java:54) - Enter State: 
+INFO  | 2022-09-20 15:53:49 | [main] book.AddressBook (AddressBook.java:56) - Enter Zip Number: 
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:53:51 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:55:05 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:55:05 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:55:05 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:55:05 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:55:08 | [main] book.AddressBook (AddressBook.java:44) - Enter First name: 
+INFO  | 2022-09-20 15:55:12 | [main] book.AddressBook (AddressBook.java:46) - Enter Last name: 
+INFO  | 2022-09-20 15:55:14 | [main] book.AddressBook (AddressBook.java:48) - Enter phone number: 
+INFO  | 2022-09-20 15:55:14 | [main] book.AddressBook (AddressBook.java:50) - Enter Address: 
+INFO  | 2022-09-20 15:55:15 | [main] book.AddressBook (AddressBook.java:52) - Enter City: 
+INFO  | 2022-09-20 15:55:17 | [main] book.AddressBook (AddressBook.java:54) - Enter State: 
+INFO  | 2022-09-20 15:55:18 | [main] book.AddressBook (AddressBook.java:56) - Enter Zip Number: 
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:55:19 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:55:55 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:55:55 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:55:55 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:55:55 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:55:57 | [main] book.AddressBook (AddressBook.java:44) - Enter First name: 
+INFO  | 2022-09-20 15:55:59 | [main] book.AddressBook (AddressBook.java:46) - Enter Last name: 
+INFO  | 2022-09-20 15:56:01 | [main] book.AddressBook (AddressBook.java:48) - Enter phone number: 
+INFO  | 2022-09-20 15:56:02 | [main] book.AddressBook (AddressBook.java:50) - Enter Address: 
+INFO  | 2022-09-20 15:56:03 | [main] book.AddressBook (AddressBook.java:52) - Enter City: 
+INFO  | 2022-09-20 15:56:04 | [main] book.AddressBook (AddressBook.java:54) - Enter State: 
+INFO  | 2022-09-20 15:56:06 | [main] book.AddressBook (AddressBook.java:56) - Enter Zip Number: 
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:56:08 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:57:20 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 15:57:34 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 15:57:38 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 15:57:39 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 15:58:04 | [main] book.AddressBook (AddressBook.java:44) - Enter First name: 
+INFO  | 2022-09-20 15:58:17 | [main] book.AddressBook (AddressBook.java:46) - Enter Last name: 
+INFO  | 2022-09-20 15:58:33 | [main] book.AddressBook (AddressBook.java:48) - Enter phone number: 
+INFO  | 2022-09-20 15:58:55 | [main] book.AddressBook (AddressBook.java:50) - Enter Address: 
+INFO  | 2022-09-20 15:59:09 | [main] book.AddressBook (AddressBook.java:52) - Enter City: 
+INFO  | 2022-09-20 15:59:27 | [main] book.AddressBook (AddressBook.java:54) - Enter State: 
+INFO  | 2022-09-20 15:59:54 | [main] book.AddressBook (AddressBook.java:56) - Enter Zip Number: 
+INFO  | 2022-09-20 16:01:01 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 16:01:08 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 16:01:09 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 16:01:09 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 16:01:23 | [main] book.AddressBook (AddressBook.java:44) - Enter First name: 
+INFO  | 2022-09-20 16:01:33 | [main] book.AddressBook (AddressBook.java:46) - Enter Last name: 
+INFO  | 2022-09-20 16:01:37 | [main] book.AddressBook (AddressBook.java:48) - Enter phone number: 
+INFO  | 2022-09-20 16:01:41 | [main] book.AddressBook (AddressBook.java:50) - Enter Address: 
+INFO  | 2022-09-20 16:01:45 | [main] book.AddressBook (AddressBook.java:52) - Enter City: 
+INFO  | 2022-09-20 16:01:49 | [main] book.AddressBook (AddressBook.java:54) - Enter State: 
+INFO  | 2022-09-20 16:01:58 | [main] book.AddressBook (AddressBook.java:56) - Enter Zip Number: 
+INFO  | 2022-09-20 16:02:35 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 16:02:36 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 16:02:40 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 16:02:59 | [main] book.AddressBook (AddressBook.java:33) - Enter numer from 1 to 3
+INFO  | 2022-09-20 16:03:12 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 16:03:13 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 16:03:14 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 16:04:10 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 16:04:10 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 16:04:10 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 16:04:10 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 16:04:15 | [main] book.AddressBook (AddressBook.java:40) - Enter First name: 
+INFO  | 2022-09-20 16:04:17 | [main] book.AddressBook (AddressBook.java:42) - Enter Last name: 
+INFO  | 2022-09-20 16:04:18 | [main] book.AddressBook (AddressBook.java:44) - Enter phone number: 
+INFO  | 2022-09-20 16:04:19 | [main] book.AddressBook (AddressBook.java:46) - Enter Address: 
+INFO  | 2022-09-20 16:04:20 | [main] book.AddressBook (AddressBook.java:48) - Enter City: 
+INFO  | 2022-09-20 16:04:22 | [main] book.AddressBook (AddressBook.java:50) - Enter State: 
+INFO  | 2022-09-20 16:04:24 | [main] book.AddressBook (AddressBook.java:52) - Enter Zip Number: 
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:31) - Enter numer from 1 to 3
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:14) - 1. Add person
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:15) - 2. Show all contacts
+INFO  | 2022-09-20 16:04:26 | [main] book.AddressBook (AddressBook.java:16) - 3. Close program
+INFO  | 2022-09-20 16:11:11 | [main] book.App (App.java:17) - Welcome to Address Book Program
+INFO  | 2022-09-20 16:11:11 | [main] book.AddressBook (AddressBook.java:19) - 1. Add person
+INFO  | 2022-09-20 16:11:11 | [main] book.AddressBook (AddressBook.java:20) - 2. Show all contacts
+INFO  | 2022-09-20 16:11:11 | [main] book.AddressBook (AddressBook.java:21) - 3. Close program
+INFO  | 2022-09-20 16:11:14 | [main] book.AddressBook (AddressBook.java:47) - Enter First name: 
+INFO  | 2022-09-20 16:11:17 | [main] book.AddressBook (AddressBook.java:49) - Enter Last name: 
+INFO  | 2022-09-20 16:11:18 | [main] book.AddressBook (AddressBook.java:51) - Enter phone number: 
+INFO  | 2022-09-20 16:11:19 | [main] book.AddressBook (AddressBook.java:53) - Enter Address: 
+INFO  | 2022-09-20 16:11:21 | [main] book.AddressBook (AddressBook.java:55) - Enter City: 
+INFO  | 2022-09-20 16:11:23 | [main] book.AddressBook (AddressBook.java:57) - Enter State: 
+INFO  | 2022-09-20 16:11:24 | [main] book.AddressBook (AddressBook.java:59) - Enter Zip Number: 
+INFO  | 2022-09-20 16:11:27 | [main] book.AddressBook (AddressBook.java:19) - 1. Add person
+INFO  | 2022-09-20 16:11:27 | [main] book.AddressBook (AddressBook.java:20) - 2. Show all contacts
+INFO  | 2022-09-20 16:11:27 | [main] book.AddressBook (AddressBook.java:21) - 3. Close program
+INFO  | 2022-09-20 16:11:58 | [main] book.AddressBook (AddressBook.java:31) - [Contact [firstName=kj, lastName=lk, address=jh, city=kh, state=jh, zip=123, phone=kh]]
+INFO  | 2022-09-20 16:11:58 | [main] book.AddressBook (AddressBook.java:19) - 1. Add person
+INFO  | 2022-09-20 16:11:58 | [main] book.AddressBook (AddressBook.java:20) - 2. Show all contacts
+INFO  | 2022-09-20 16:11:58 | [main] book.AddressBook (AddressBook.java:21) - 3. Close program
+INFO  | 2022-09-20 16:12:47 | [main] book.App (App.java:17) - Welcome to Address Book Program
+INFO  | 2022-09-20 16:12:48 | [main] book.AddressBook (AddressBook.java:19) - 1. Add person
+INFO  | 2022-09-20 16:12:48 | [main] book.AddressBook (AddressBook.java:20) - 2. Show all contacts
+INFO  | 2022-09-20 16:12:48 | [main] book.AddressBook (AddressBook.java:21) - 3. Close program
+INFO  | 2022-09-20 16:12:52 | [main] book.AddressBook (AddressBook.java:48) - Enter First name: 
+INFO  | 2022-09-20 16:12:54 | [main] book.AddressBook (AddressBook.java:50) - Enter Last name: 
+INFO  | 2022-09-20 16:12:55 | [main] book.AddressBook (AddressBook.java:52) - Enter phone number: 
+INFO  | 2022-09-20 16:12:56 | [main] book.AddressBook (AddressBook.java:54) - Enter Address: 
+INFO  | 2022-09-20 16:12:57 | [main] book.AddressBook (AddressBook.java:56) - Enter City: 
+INFO  | 2022-09-20 16:12:58 | [main] book.AddressBook (AddressBook.java:58) - Enter State: 
+INFO  | 2022-09-20 16:12:59 | [main] book.AddressBook (AddressBook.java:60) - Enter Zip Number: 
+INFO  | 2022-09-20 16:13:03 | [main] book.AddressBook (AddressBook.java:19) - 1. Add person
+INFO  | 2022-09-20 16:13:03 | [main] book.AddressBook (AddressBook.java:20) - 2. Show all contacts
+INFO  | 2022-09-20 16:13:03 | [main] book.AddressBook (AddressBook.java:21) - 3. Close program
+INFO  | 2022-09-20 16:13:28 | [main] book.AddressBook (AddressBook.java:32) - [Contact [firstName=ad, lastName=fg, address=jh, city=jh, state=gf, zip=123, phone=hg]]
+INFO  | 2022-09-20 16:13:28 | [main] book.AddressBook (AddressBook.java:19) - 1. Add person
+INFO  | 2022-09-20 16:13:28 | [main] book.AddressBook (AddressBook.java:20) - 2. Show all contacts
+INFO  | 2022-09-20 16:13:28 | [main] book.AddressBook (AddressBook.java:21) - 3. Close program
+INFO  | 2022-09-20 16:39:06 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 16:40:02 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 16:40:02 | [main] book.AddressBook (AddressBook.java:20) - Enter First name: 
+INFO  | 2022-09-20 16:40:05 | [main] book.AddressBook (AddressBook.java:22) - Enter Last name: 
+INFO  | 2022-09-20 16:40:07 | [main] book.AddressBook (AddressBook.java:24) - Enter phone number: 
+INFO  | 2022-09-20 16:40:09 | [main] book.AddressBook (AddressBook.java:26) - Enter Address: 
+INFO  | 2022-09-20 16:40:10 | [main] book.AddressBook (AddressBook.java:28) - Enter City: 
+INFO  | 2022-09-20 16:40:11 | [main] book.AddressBook (AddressBook.java:30) - Enter State: 
+INFO  | 2022-09-20 16:40:13 | [main] book.AddressBook (AddressBook.java:32) - Enter Zip Number: 
+INFO  | 2022-09-20 16:40:16 | [main] book.AddressBook (AddressBook.java:36) - [Contact [firstName=25, lastName=;lk, address=kj, city=h, state=jh, zip=123, phone=kj]]
+INFO  | 2022-09-20 17:09:08 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 17:09:08 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:09:08 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:09:08 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:09:13 | [main] book.AddressBook (AddressBook.java:46) - Enter First name: 
+INFO  | 2022-09-20 17:09:19 | [main] book.AddressBook (AddressBook.java:48) - Enter Last name: 
+INFO  | 2022-09-20 17:09:23 | [main] book.AddressBook (AddressBook.java:50) - Enter phone number: 
+INFO  | 2022-09-20 17:09:30 | [main] book.AddressBook (AddressBook.java:52) - Enter Address: 
+INFO  | 2022-09-20 17:09:47 | [main] book.AddressBook (AddressBook.java:54) - Enter City: 
+INFO  | 2022-09-20 17:09:51 | [main] book.AddressBook (AddressBook.java:56) - Enter State: 
+INFO  | 2022-09-20 17:09:56 | [main] book.AddressBook (AddressBook.java:58) - Enter Zip Number: 
+INFO  | 2022-09-20 17:10:00 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:10:00 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:10:00 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:10:20 | [main] book.AddressBook (AddressBook.java:66) - Enter the name of the contact that you want to replace
+INFO  | 2022-09-20 17:10:46 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:10:46 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:10:46 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:10:57 | [main] book.AddressBook (AddressBook.java:30) - [Contact [firstName=rutuja, lastName=patil, address=s r p, city=dhule, state=maharashtra, zip=12345, phone=8483840547]]
+INFO  | 2022-09-20 17:10:57 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:10:57 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:10:57 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:11:06 | [main] book.AddressBook (AddressBook.java:66) - Enter the name of the contact that you want to replace
+INFO  | 2022-09-20 17:11:16 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:11:16 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:11:16 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:12:05 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 17:12:05 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:12:05 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:12:05 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:12:08 | [main] book.AddressBook (AddressBook.java:46) - Enter First name: 
+INFO  | 2022-09-20 17:12:11 | [main] book.AddressBook (AddressBook.java:48) - Enter Last name: 
+INFO  | 2022-09-20 17:12:14 | [main] book.AddressBook (AddressBook.java:50) - Enter phone number: 
+INFO  | 2022-09-20 17:12:18 | [main] book.AddressBook (AddressBook.java:52) - Enter Address: 
+INFO  | 2022-09-20 17:12:26 | [main] book.AddressBook (AddressBook.java:54) - Enter City: 
+INFO  | 2022-09-20 17:12:31 | [main] book.AddressBook (AddressBook.java:56) - Enter State: 
+INFO  | 2022-09-20 17:12:38 | [main] book.AddressBook (AddressBook.java:58) - Enter Zip Number: 
+INFO  | 2022-09-20 17:12:42 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:12:42 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:12:42 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:12:57 | [main] book.AddressBook (AddressBook.java:30) - [Contact [firstName=rutuja, lastName=patil, address=s.r.p.colony, city=dhule, state=maharashtra, zip=12345, phone=8483840547]]
+INFO  | 2022-09-20 17:12:57 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:12:57 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:12:57 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:13:03 | [main] book.AddressBook (AddressBook.java:66) - Enter the name of the contact that you want to replace
+INFO  | 2022-09-20 17:13:11 | [main] book.AddressBook (AddressBook.java:75) - What you want to change: 
+INFO  | 2022-09-20 17:13:11 | [main] book.AddressBook (AddressBook.java:76) - 1. Name only
+INFO  | 2022-09-20 17:13:11 | [main] book.AddressBook (AddressBook.java:77) - 2. Phone Only
+INFO  | 2022-09-20 17:13:11 | [main] book.AddressBook (AddressBook.java:78) - 3. Address only 
+INFO  | 2022-09-20 17:13:11 | [main] book.AddressBook (AddressBook.java:79) - 4. all details
+INFO  | 2022-09-20 17:13:22 | [main] book.AddressBook (AddressBook.java:90) - Enter name: 
+INFO  | 2022-09-20 17:13:32 | [main] book.AddressBook (AddressBook.java:92) - Enter surname: 
+INFO  | 2022-09-20 17:13:40 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:13:40 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:13:40 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:13:48 | [main] book.AddressBook (AddressBook.java:66) - Enter the name of the contact that you want to replace
+INFO  | 2022-09-20 17:13:56 | [main] book.AddressBook (AddressBook.java:75) - What you want to change: 
+INFO  | 2022-09-20 17:13:56 | [main] book.AddressBook (AddressBook.java:76) - 1. Name only
+INFO  | 2022-09-20 17:13:56 | [main] book.AddressBook (AddressBook.java:77) - 2. Phone Only
+INFO  | 2022-09-20 17:13:56 | [main] book.AddressBook (AddressBook.java:78) - 3. Address only 
+INFO  | 2022-09-20 17:13:56 | [main] book.AddressBook (AddressBook.java:79) - 4. all details
+INFO  | 2022-09-20 17:14:04 | [main] book.AddressBook (AddressBook.java:102) - Enter Address: 
+INFO  | 2022-09-20 17:14:25 | [main] book.AddressBook (AddressBook.java:104) - Enter City: 
+INFO  | 2022-09-20 17:14:31 | [main] book.AddressBook (AddressBook.java:106) - Enter State: 
+INFO  | 2022-09-20 17:14:37 | [main] book.AddressBook (AddressBook.java:108) - Enter Zip Number: 
+INFO  | 2022-09-20 17:14:43 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:14:43 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:14:43 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:14:48 | [main] book.AddressBook (AddressBook.java:66) - Enter the name of the contact that you want to replace
+INFO  | 2022-09-20 17:14:57 | [main] book.AddressBook (AddressBook.java:75) - What you want to change: 
+INFO  | 2022-09-20 17:14:57 | [main] book.AddressBook (AddressBook.java:76) - 1. Name only
+INFO  | 2022-09-20 17:14:57 | [main] book.AddressBook (AddressBook.java:77) - 2. Phone Only
+INFO  | 2022-09-20 17:14:57 | [main] book.AddressBook (AddressBook.java:78) - 3. Address only 
+INFO  | 2022-09-20 17:14:57 | [main] book.AddressBook (AddressBook.java:79) - 4. all details
+INFO  | 2022-09-20 17:15:01 | [main] book.AddressBook (AddressBook.java:97) - Enter phone number: 
+INFO  | 2022-09-20 17:15:17 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:15:17 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:15:17 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:18:25 | [main] book.AddressBook (AddressBook.java:30) - [Contact [firstName=rutuja1, lastName=patil1, address=s.r.p., city=Dhule, state=Maharashtra, zip=2451, phone=9021442520]]
+INFO  | 2022-09-20 17:18:25 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:18:25 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:18:25 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:18:32 | [main] book.AddressBook (AddressBook.java:66) - Enter the name of the contact that you want to replace
+INFO  | 2022-09-20 17:18:45 | [main] book.AddressBook (AddressBook.java:75) - What you want to change: 
+INFO  | 2022-09-20 17:18:45 | [main] book.AddressBook (AddressBook.java:76) - 1. Name only
+INFO  | 2022-09-20 17:18:45 | [main] book.AddressBook (AddressBook.java:77) - 2. Phone Only
+INFO  | 2022-09-20 17:18:45 | [main] book.AddressBook (AddressBook.java:78) - 3. Address only 
+INFO  | 2022-09-20 17:18:45 | [main] book.AddressBook (AddressBook.java:79) - 4. all details
+INFO  | 2022-09-20 17:19:20 | [main] book.AddressBook (AddressBook.java:114) - Enter name: 
+INFO  | 2022-09-20 17:19:24 | [main] book.AddressBook (AddressBook.java:116) - Enter surname: 
+INFO  | 2022-09-20 17:19:25 | [main] book.AddressBook (AddressBook.java:118) - Enter phone number: 
+INFO  | 2022-09-20 17:19:27 | [main] book.AddressBook (AddressBook.java:120) - Enter Address: 
+INFO  | 2022-09-20 17:19:28 | [main] book.AddressBook (AddressBook.java:122) - Enter City: 
+INFO  | 2022-09-20 17:19:30 | [main] book.AddressBook (AddressBook.java:124) - Enter State: 
+INFO  | 2022-09-20 17:19:32 | [main] book.AddressBook (AddressBook.java:126) - Enter Zip Number: 
+INFO  | 2022-09-20 17:19:34 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:19:34 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:19:34 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:19:44 | [main] book.AddressBook (AddressBook.java:30) - [Contact [firstName=cd, lastName=vf, address=sa, city=gf, state=ds, zip=1234, phone=fs]]
+INFO  | 2022-09-20 17:19:44 | [main] book.AddressBook (AddressBook.java:15) - 1. Add person
+INFO  | 2022-09-20 17:19:44 | [main] book.AddressBook (AddressBook.java:16) - 2. Show all contacts
+INFO  | 2022-09-20 17:19:44 | [main] book.AddressBook (AddressBook.java:17) - 3. Close program
+INFO  | 2022-09-20 17:32:01 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 17:32:01 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:32:01 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:32:01 | [main] book.AddressBook (AddressBook.java:19) - 3. To edit Contact
+INFO  | 2022-09-20 17:32:01 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:32:01 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:32:05 | [main] book.AddressBook (AddressBook.java:51) - Enter First name: 
+INFO  | 2022-09-20 17:32:07 | [main] book.AddressBook (AddressBook.java:53) - Enter Last name: 
+INFO  | 2022-09-20 17:32:09 | [main] book.AddressBook (AddressBook.java:55) - Enter phone number: 
+INFO  | 2022-09-20 17:32:13 | [main] book.AddressBook (AddressBook.java:57) - Enter Address: 
+INFO  | 2022-09-20 17:32:15 | [main] book.AddressBook (AddressBook.java:59) - Enter City: 
+INFO  | 2022-09-20 17:32:18 | [main] book.AddressBook (AddressBook.java:61) - Enter State: 
+INFO  | 2022-09-20 17:32:23 | [main] book.AddressBook (AddressBook.java:63) - Enter Zip Number: 
+INFO  | 2022-09-20 17:32:27 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:32:27 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:32:27 | [main] book.AddressBook (AddressBook.java:19) - 3. To edit Contact
+INFO  | 2022-09-20 17:32:27 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:32:27 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:32:56 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:32:56 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:32:56 | [main] book.AddressBook (AddressBook.java:19) - 3. To edit Contact
+INFO  | 2022-09-20 17:32:56 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:32:56 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:33:11 | [main] book.AddressBook (AddressBook.java:37) - []
+INFO  | 2022-09-20 17:33:11 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:33:11 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:33:11 | [main] book.AddressBook (AddressBook.java:19) - 3. To edit Contact
+INFO  | 2022-09-20 17:33:11 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:33:11 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:34:45 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 17:34:45 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:34:45 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:34:45 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact
+INFO  | 2022-09-20 17:34:45 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:34:45 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:34:45 | [main] book.AddressBook (AddressBook.java:22) - Enter 1 to 4 numbers
+INFO  | 2022-09-20 17:35:01 | [main] book.AddressBook (AddressBook.java:52) - Enter First name: 
+INFO  | 2022-09-20 17:35:06 | [main] book.AddressBook (AddressBook.java:54) - Enter Last name: 
+INFO  | 2022-09-20 17:35:10 | [main] book.AddressBook (AddressBook.java:56) - Enter phone number: 
+INFO  | 2022-09-20 17:35:19 | [main] book.AddressBook (AddressBook.java:58) - Enter Address: 
+INFO  | 2022-09-20 17:35:21 | [main] book.AddressBook (AddressBook.java:60) - Enter City: 
+INFO  | 2022-09-20 17:35:25 | [main] book.AddressBook (AddressBook.java:62) - Enter State: 
+INFO  | 2022-09-20 17:35:27 | [main] book.AddressBook (AddressBook.java:64) - Enter Zip Number: 
+INFO  | 2022-09-20 17:35:30 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:35:30 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:35:30 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact
+INFO  | 2022-09-20 17:35:30 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:35:30 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:35:30 | [main] book.AddressBook (AddressBook.java:22) - Enter 1 to 4 numbers
+INFO  | 2022-09-20 17:35:33 | [main] book.AddressBook (AddressBook.java:52) - Enter First name: 
+INFO  | 2022-09-20 17:35:41 | [main] book.AddressBook (AddressBook.java:54) - Enter Last name: 
+INFO  | 2022-09-20 17:35:44 | [main] book.AddressBook (AddressBook.java:56) - Enter phone number: 
+INFO  | 2022-09-20 17:35:47 | [main] book.AddressBook (AddressBook.java:58) - Enter Address: 
+INFO  | 2022-09-20 17:35:50 | [main] book.AddressBook (AddressBook.java:60) - Enter City: 
+INFO  | 2022-09-20 17:35:56 | [main] book.AddressBook (AddressBook.java:62) - Enter State: 
+INFO  | 2022-09-20 17:35:59 | [main] book.AddressBook (AddressBook.java:64) - Enter Zip Number: 
+INFO  | 2022-09-20 17:36:02 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:36:02 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:36:02 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact
+INFO  | 2022-09-20 17:36:02 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:36:02 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:36:02 | [main] book.AddressBook (AddressBook.java:22) - Enter 1 to 4 numbers
+INFO  | 2022-09-20 17:36:15 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:36:15 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:36:15 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact
+INFO  | 2022-09-20 17:36:15 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:36:15 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:36:15 | [main] book.AddressBook (AddressBook.java:22) - Enter 1 to 4 numbers
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:38) - [Contact [firstName=ru, lastName=pa45, address=dh, city=mh, state=kf, zip=123, phone=df]]
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:17) - 1. TO Add person
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:22) - Enter 1 to 4 numbers
