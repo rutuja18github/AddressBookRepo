@@ -13,7 +13,10 @@ public class App
     public static void main( String[] args )
     {
     	logger.info( "Welcome to Address Book Program" );
-    	AddressBook book=new AddressBook();
-    	book.showMainMenu();
+    	//AddressBook book=new AddressBook();
+    	//book.showMainMenu();
+    	Dictionary dictObj=new Dictionary();
+    	dictObj.creatDictionary();
+    	
     }
 }

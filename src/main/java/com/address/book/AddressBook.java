@@ -2,6 +2,7 @@ package com.address.book;
 
 import java.util.ArrayList;
 import java.util.Scanner;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -9,17 +10,16 @@ public class AddressBook {
 	Scanner scanner = new Scanner(System.in);
 	ArrayList<Contact> contactList = new ArrayList<>();
 	private static final Logger logger = LogManager.getLogger(AddressBook.class);
-
+    //select from menu which operation is to be perform
 	public void showMainMenu() {
-		logger.info("2. TO Multiple person");
-		logger.info("3. To edit Contact person");
-		logger.info("4. To Delete Contact person");
-		logger.info("5. Show all contacts person");
-		logger.info("6. Close program");
+		logger.info("1. TO Multiple person");
+		logger.info("2. To edit Contact person");
+		logger.info("3. To Delete Contact person");
+		logger.info("4. Show all contacts person");
+		logger.info("5. Close program");
 		logger.info("Enter 1 to 5 numbers");
 
 		String choice;
-		do {
 			choice = scanner.nextLine();
 			switch (choice) {
 			case "1":
@@ -40,10 +40,9 @@ public class AddressBook {
 				System.exit(0);
 				break;
 			}
-		} while (!choice.equals("5"));
-
 	}
 
+	//create contact person 
 	public void creatContact() {
 
 		logger.info("Enter First name: ");
@@ -63,8 +62,9 @@ public class AddressBook {
 		Contact con = new Contact(firstName, lastName, address, city, state, zip, phone);
 		contactList.add(con);
 		showMainMenu();
+		
 	}
-
+    //method to update existing contact
 	public void updateContact() {
 		logger.info("Enter the First Name of the contact that you want to replace");
 		String replacedFirstName = scanner.nextLine();
@@ -73,10 +73,11 @@ public class AddressBook {
 		int matches = 0;
 		for (Contact contact : contactList) {
 			if (contact.getFirstName().equalsIgnoreCase(replacedFirstName)
-					&& contact.getLastName().equalsIgnoreCase(replacedLastName)) {
+					&& contact.getLastName().equalsIgnoreCase(replacedLastName)) {    
 				int index = findContact(contact);
 				System.out.println(contact);
 				if (index >= 0) {
+					//select from option what we have to update
 					logger.info("What you want to change: ");
 					logger.info("1. Edit Only Name");
 					logger.info("2. Edit Only Phone Only");
@@ -152,11 +153,13 @@ public class AddressBook {
 			showMainMenu();
 		}
 	}
-
+    
+	//method to get index of particular record
 	public int findContact(Contact contact) {
 		return contactList.indexOf(contact);
 	}
-
+    
+	//method to delete contact person first search person using name then delete it
 	public void deleteContact() {
 		System.out.print("Enter First name of contact wants to delete : ");
 		String firstNameToFind = scanner.nextLine();
