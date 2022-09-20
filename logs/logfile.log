@@ -449,3 +449,5 @@ INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:19) - 3.
 INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:20) - 4. Show all contacts
 INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
 INFO  | 2022-09-20 17:36:29 | [main] book.AddressBook (AddressBook.java:22) - Enter 1 to 4 numbers
+INFO  | 2022-09-20 18:04:29 | [main] book.App (App.java:15) - Welcome to Address Book Program
+INFO  | 2022-09-20 18:04:29 | [main] book.AddressBook (AddressBook.java:15) - Enter First name: 
