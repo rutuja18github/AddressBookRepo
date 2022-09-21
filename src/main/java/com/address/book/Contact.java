@@ -6,13 +6,13 @@ public class Contact {
     private String address;
     private String city;
     private String state;
-    private int zip;
+    private String zip;
     private String phone;
 
 
     
 
-    public Contact(String firstName, String lastName, String address, String city, String state, int zip,
+    public Contact(String firstName, String lastName, String address, String city, String state, String zip,
 			String phone) {
 		super();
 		this.firstName = firstName;
@@ -84,13 +84,13 @@ public class Contact {
 
 
 
-	public int getZip() {
+	public String getZip() {
 		return zip;
 	}
 
 
 
-	public void setZip(int zip) {
+	public void setZip(String zip) {
 		this.zip = zip;
 	}
 
