@@ -19,8 +19,8 @@ public class AddressBook {
 		logger.info("3. To Delete Contact person");
 		logger.info("4. Display all contact person");
 		logger.info("5. Close program");
-		logger.info("6. TO Multiple person");
-		logger.info("Enter number 1 between 6 to select option");
+		logger.info("6. TO Add Multiple Contact");
+		logger.info("Enter number between 1 to 6 select option");
 		String option;
 		String choice;
 		choice = scanner.nextLine();
@@ -63,7 +63,7 @@ public class AddressBook {
 			break;
 		case "6":
 			address.createMultipleContact();
-			logger.info("Want to go to main menu of contact(address book)?");
+			logger.info("Want to go to main menu of contact(address book) yes or no?");
 			option = scanner.nextLine();
 			while (option.equalsIgnoreCase("yes")) {
 				menuOfAddressBook(address);
@@ -91,7 +91,10 @@ public class AddressBook {
 		logger.info("Enter Zip Number: ");
 		String zip = scanner.nextLine();
 		Contact con = new Contact(firstName, lastName, address, city, state, zip, phone);
-		contactList.add(con);
+		// check that contact already exist or not if not then add to contact list
+		if (!checkDuplicate(firstName)) {
+			contactList.add(con);
+		}
 
 	}
 
@@ -103,6 +106,13 @@ public class AddressBook {
 			logger.info("Add More contact person yes or no?");
 			option = scanner.nextLine();
 		}
+	}
+
+	// method to check there is no duplicate entry of same person
+	public boolean checkDuplicate(String firstName) {
+		boolean alreadyExist = contactList.stream()
+				.anyMatch(contactValue -> contactValue.getFirstName().equals(firstName));
+		return alreadyExist;
 	}
 
 	// method to update existing contact
