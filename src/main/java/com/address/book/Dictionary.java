@@ -56,7 +56,11 @@ public class Dictionary {
 		AddressBook addressObj = new AddressBook();
 		addressObj.menuOfAddressBook(addressObj);
 		dictionaryMap.put(name, addressObj);
+		logger.info("Want to go to main menu of contact(address book) yes or no?");
+		String option = scanner.nextLine();
+		while (option.equalsIgnoreCase("yes")) {
 		menuOfDictionary();
+		}
 	}
 
 	public void deleteDictionary() {
@@ -73,9 +77,11 @@ public class Dictionary {
 		}
 		if (matches <= 0) {
 			System.out.println("There is no person with this name");
-			menuOfDictionary();
-		} else {
-			menuOfDictionary();
+		} 
+		logger.info("Want to go to main menu of contact(address book) yes or no?");
+		String option = scanner.nextLine();
+		while (option.equalsIgnoreCase("yes")) {
+		menuOfDictionary();
 		}
 	}
 
@@ -90,14 +96,23 @@ public class Dictionary {
 			logger.info("accress Address Book of name " + addressBookName);
 			address.menuOfAddressBook(address);
 		}
+		logger.info("Want to go to main menu of contact(address book) yes or no?");
+		String option = scanner.nextLine();
+		while (option.equalsIgnoreCase("yes")) {
 		menuOfDictionary();
+		}
 	}
-
+    
+	//search contact for given location across address books present in dictionary.
 	public void searchPersonInCityOrState(String location) {
 		dictionaryMap.entrySet().stream().forEach(entry -> {
 			AddressBook address = entry.getValue();
 			address.getPersonByStateOrCity(location);
 		});
+		logger.info("Want to go to main menu of contact(address book) yes or no?");
+		String option = scanner.nextLine();
+		while (option.equalsIgnoreCase("yes")) {
 		menuOfDictionary();
+		}
 	}
 }
