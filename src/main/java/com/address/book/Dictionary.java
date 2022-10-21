@@ -18,8 +18,9 @@ public class Dictionary {
 		logger.info("2. Display all Address books from dictionary");
 		logger.info("3. Delete Address books from dictionary");
 		logger.info("4. Want to access particular address book");
-		logger.info("5. Close program");
-		logger.info("Enter number 1 between 5 select option");
+		logger.info("5. Search Person in city or state");
+		logger.info("6. Close program");
+		logger.info("Enter number 1 between 6 select option");
 
 		String choice;
 		choice = scanner.nextLine();
@@ -39,9 +40,23 @@ public class Dictionary {
 			accessAddressBook();
 			break;
 		case "5":
+			System.out.print("Enter city or state for you want to search person  : ");
+			String location = scanner.nextLine();
+			searchPersonInCityOrState(location);
+			break;
+		case "6":
 			System.exit(0);
 			break;
 		}
+	}
+
+	public void creatDictionary() {
+		logger.info("Enter name of address book");
+		String name = scanner.nextLine();
+		AddressBook addressObj = new AddressBook();
+		addressObj.menuOfAddressBook(addressObj);
+		dictionaryMap.put(name, addressObj);
+		menuOfDictionary();
 	}
 
 	public void deleteDictionary() {
@@ -64,27 +79,25 @@ public class Dictionary {
 		}
 	}
 
-	public void creatDictionary() {
-		logger.info("Enter name of address book");
-		String name = scanner.nextLine();
-		AddressBook addressObj = new AddressBook();
-		addressObj.menuOfAddressBook(addressObj);
-		dictionaryMap.put(name, addressObj);
-		menuOfDictionary();
-	}
-
-	void accessAddressBook() { 
+	public void accessAddressBook() {
 		logger.info("Enter address book name which you want to access  :");
 		String addressBookName = scanner.nextLine();
 		AddressBook address = dictionaryMap.get(addressBookName);
-		if (address==null) {
+		if (address == null) {
 			logger.info("Address book does not exist");
 		} else {
 
-			logger.info("accress Address Book of name "+addressBookName);
+			logger.info("accress Address Book of name " + addressBookName);
 			address.menuOfAddressBook(address);
 		}
 		menuOfDictionary();
 	}
 
+	public void searchPersonInCityOrState(String location) {
+		dictionaryMap.entrySet().stream().forEach(entry -> {
+			AddressBook address = entry.getValue();
+			address.getPersonByStateOrCity(location);
+		});
+		menuOfDictionary();
+	}
 }

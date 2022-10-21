@@ -68,7 +68,6 @@ public class AddressBook {
 			while (option.equalsIgnoreCase("yes")) {
 				menuOfAddressBook(address);
 			}
-
 			break;
 		}
 	}
@@ -227,6 +226,12 @@ public class AddressBook {
 		if (matches <= 0) {
 			System.out.println("There is no person with this name");
 		}
+	}
+
+	public void getPersonByStateOrCity(String location) {
+		contactList.stream().filter(contact -> {
+			return (contact.getCity().equalsIgnoreCase(location) || contact.getState().equalsIgnoreCase(location));
+		}).forEach(System.out::println);
 	}
 
 }

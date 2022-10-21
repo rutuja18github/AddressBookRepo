@@ -2708,3 +2708,381 @@ INFO  | 2022-10-20 09:47:51 | [main] book.AddressBook (AddressBook.java:20) - 4.
 INFO  | 2022-10-20 09:47:51 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
 INFO  | 2022-10-20 09:47:51 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
 INFO  | 2022-10-20 09:47:51 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 10:52:42 | [main] book.App (App.java:16) - Welcome to Address Book Program
+INFO  | 2022-10-21 10:52:42 | [main] book.App (App.java:18) - what you want  to create Address Book or dictionary
+INFO  | 2022-10-21 10:52:42 | [main] book.App (App.java:19) - 1.Enter 1 to Create address book only 
+INFO  | 2022-10-21 10:52:42 | [main] book.App (App.java:20) - 2.Enter 2 to Create dictionary of address book
+INFO  | 2022-10-21 16:40:26 | [main] book.App (App.java:16) - Welcome to Address Book Program
+INFO  | 2022-10-21 16:40:26 | [main] book.App (App.java:18) - what you want  to create Address Book or dictionary
+INFO  | 2022-10-21 16:40:26 | [main] book.App (App.java:19) - 1.Enter 1 to Create address book only 
+INFO  | 2022-10-21 16:40:26 | [main] book.App (App.java:20) - 2.Enter 2 to Create dictionary of address book
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 16:40:30 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 16:40:47 | [main] book.Dictionary (Dictionary.java:74) - Enter name of address book
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 16:41:00 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 16:41:11 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 16:41:16 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 16:41:21 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 16:41:24 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 16:41:25 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 16:41:33 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 16:41:47 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 16:41:53 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 16:41:58 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 16:42:18 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 16:42:27 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 16:42:31 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 16:42:34 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 16:42:39 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 16:42:54 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 16:42:58 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 16:43:01 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 16:43:08 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 16:43:12 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 16:43:15 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 16:43:20 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 16:43:25 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 16:43:34 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 16:43:39 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 16:44:20 | [main] book.AddressBook (AddressBook.java:66) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 16:44:40 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 16:44:56 | [main] book.Dictionary (Dictionary.java:74) - Enter name of address book
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 16:45:01 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 16:45:07 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 16:45:13 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 16:45:16 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 16:45:21 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 16:45:28 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 16:45:34 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 16:45:49 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 16:45:54 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 16:45:58 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 16:46:15 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 16:46:22 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 16:46:24 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 16:46:26 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 16:46:32 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 16:46:45 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 16:46:51 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 16:46:54 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 16:47:04 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 16:47:07 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 16:47:09 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 16:47:11 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 16:47:25 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 16:48:17 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 16:48:21 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 16:48:24 | [main] book.AddressBook (AddressBook.java:66) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 16:48:30 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:32) - {add2=com.address.book.AddressBook@1d483de4, add1=com.address.book.AddressBook@4032d386}
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 16:49:15 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:32) - {add2=com.address.book.AddressBook@1d483de4, add1=com.address.book.AddressBook@4032d386}
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 16:49:51 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:03:28 | [main] book.App (App.java:16) - Welcome to Address Book Program
+INFO  | 2022-10-21 17:03:28 | [main] book.App (App.java:18) - what you want  to create Address Book or dictionary
+INFO  | 2022-10-21 17:03:28 | [main] book.App (App.java:19) - 1.Enter 1 to Create address book only 
+INFO  | 2022-10-21 17:03:28 | [main] book.App (App.java:20) - 2.Enter 2 to Create dictionary of address book
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:03:34 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:03:41 | [main] book.Dictionary (Dictionary.java:54) - Enter name of address book
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:03:45 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:03:50 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:04:35 | [main] book.App (App.java:16) - Welcome to Address Book Program
+INFO  | 2022-10-21 17:04:35 | [main] book.App (App.java:18) - what you want  to create Address Book or dictionary
+INFO  | 2022-10-21 17:04:35 | [main] book.App (App.java:19) - 1.Enter 1 to Create address book only 
+INFO  | 2022-10-21 17:04:35 | [main] book.App (App.java:20) - 2.Enter 2 to Create dictionary of address book
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:04:37 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:05:03 | [main] book.App (App.java:16) - Welcome to Address Book Program
+INFO  | 2022-10-21 17:05:03 | [main] book.App (App.java:18) - what you want  to create Address Book or dictionary
+INFO  | 2022-10-21 17:05:03 | [main] book.App (App.java:19) - 1.Enter 1 to Create address book only 
+INFO  | 2022-10-21 17:05:03 | [main] book.App (App.java:20) - 2.Enter 2 to Create dictionary of address book
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:05:07 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:05:12 | [main] book.Dictionary (Dictionary.java:54) - Enter name of address book
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:05:16 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:05:22 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:05:26 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:05:29 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:05:32 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:05:34 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:05:38 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:05:45 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:05:48 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:05:51 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:06:00 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:06:02 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:06:04 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:06:06 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:06:15 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:06:24 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:06:27 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:06:30 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:06:37 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:06:39 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:06:40 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:06:43 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:06:47 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:07:02 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:07:05 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:07:09 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:07:14 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:07:15 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:07:16 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:07:17 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:07:22 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:07:30 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:07:35 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:07:49 | [main] book.AddressBook (AddressBook.java:66) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:07:55 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:07:59 | [main] book.AddressBook (AddressBook.java:53) - [Contact [firstName=rutuja, lastName=patil, address=sjkak, city=dhule, state=maharashtra, zip=566, phone=5153], Contact [firstName=rajashri, lastName=sh, address=ujhdk, city=Dhule, state=Maharashtra, zip=53365, phone=jdhkus], Contact [firstName=shubhangi, lastName=hbsd, address=sjehdgu, city=kalyan, state=shimla, zip=56, phone=hedgjue], Contact [firstName=suraj, lastName=jdhiu, address=jdhfj, city=kalyan, state=shimla, zip=56656, phone=djhjs]]
+INFO  | 2022-10-21 17:07:59 | [main] book.AddressBook (AddressBook.java:55) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:08:05 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:08:35 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:08:41 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:08:43 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:08:44 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:08:47 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:08:52 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:08:56 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:08:58 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:09:01 | [main] book.AddressBook (AddressBook.java:66) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:09:05 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:12:18 | [main] book.App (App.java:16) - Welcome to Address Book Program
+INFO  | 2022-10-21 17:12:18 | [main] book.App (App.java:18) - what you want  to create Address Book or dictionary
+INFO  | 2022-10-21 17:12:18 | [main] book.App (App.java:19) - 1.Enter 1 to Create address book only 
+INFO  | 2022-10-21 17:12:18 | [main] book.App (App.java:20) - 2.Enter 2 to Create dictionary of address book
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:12:21 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:12:28 | [main] book.Dictionary (Dictionary.java:54) - Enter name of address book
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:12:32 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:12:34 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:12:37 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:12:38 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:12:39 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:12:40 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:12:44 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:12:51 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:13:01 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:13:04 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:13:12 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:13:14 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:13:15 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:13:16 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:13:24 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:13:35 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:13:38 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:13:40 | [main] book.AddressBook (AddressBook.java:66) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:13:45 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:32) - {add1=com.address.book.AddressBook@1d483de4}
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:13:51 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:14:35 | [main] book.Dictionary (Dictionary.java:54) - Enter name of address book
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:16) - Options for Address Book
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:17) - 1. TO create single contact person
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:18) - 2. To edit Contact person
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:19) - 3. To Delete Contact person
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:20) - 4. Display all contact person
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:21) - 5. Close program
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:22) - 6. TO Add Multiple Contact
+INFO  | 2022-10-21 17:14:48 | [main] book.AddressBook (AddressBook.java:23) - Enter number between 1 to 6 select option
+INFO  | 2022-10-21 17:14:57 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:15:03 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:15:04 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:15:05 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:15:06 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:15:12 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:15:23 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:15:26 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:15:31 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:15:37 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:15:40 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:15:40 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:15:42 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:15:49 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:16:01 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:16:03 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:16:08 | [main] book.AddressBook (AddressBook.java:78) - Enter First name: 
+INFO  | 2022-10-21 17:16:15 | [main] book.AddressBook (AddressBook.java:80) - Enter Last name: 
+INFO  | 2022-10-21 17:16:16 | [main] book.AddressBook (AddressBook.java:82) - Enter phone number: 
+INFO  | 2022-10-21 17:16:18 | [main] book.AddressBook (AddressBook.java:84) - Enter Address: 
+INFO  | 2022-10-21 17:16:19 | [main] book.AddressBook (AddressBook.java:86) - Enter City: 
+INFO  | 2022-10-21 17:16:23 | [main] book.AddressBook (AddressBook.java:88) - Enter State: 
+INFO  | 2022-10-21 17:16:29 | [main] book.AddressBook (AddressBook.java:90) - Enter Zip Number: 
+INFO  | 2022-10-21 17:16:31 | [main] book.AddressBook (AddressBook.java:105) - Add More contact person yes or no?
+INFO  | 2022-10-21 17:16:33 | [main] book.AddressBook (AddressBook.java:66) - Want to go to main menu of contact(address book) yes or no?
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:16:39 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:16:56 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:17:45 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:18:33 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:19:52 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:16) - Options for dictionay
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:17) - 1. To create dictionay
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:18) - 2. Display all Address books from dictionary
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:19) - 3. Delete Address books from dictionary
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:20) - 4. Want to access particular address book
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:21) - 5. Search Person in city or state
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:22) - 6. Close program
+INFO  | 2022-10-21 17:20:08 | [main] book.Dictionary (Dictionary.java:23) - Enter number 1 between 6 select option

@@ -29,7 +29,6 @@ public class App {
 			Dictionary dictObj = new Dictionary();
 			dictObj.menuOfDictionary();
 			break;
-
 		}
 		scanner.close();
 	}
