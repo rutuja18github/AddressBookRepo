@@ -278,10 +278,14 @@ public class AddressBook {
 		if (locationaType.equals("city")) {
 			ArrayList<Contact> personByCity = directoryOfCity.get(location);
 			System.out.println(personByCity);
+			System.out.println("number of contact persons i.e. count by city = "+personByCity.stream().count());
 		}
 		if (locationaType.equals("state")) {
 			ArrayList<Contact> personByState = directoryOfState.get(location);
 			System.out.println(personByState);
+			System.out.println("number of contact persons i.e. count by state ="+personByState.stream().count());
 		}
 	}
+	
+	public void countPersonsByCityOrState() {}
 }
