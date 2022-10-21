@@ -1,8 +1,10 @@
 package com.address.book;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -25,7 +27,7 @@ public class AddressBook {
 		logger.info("6. Close program");
 		logger.info("7. View and Count Person by city");
 		logger.info("8. View and Count Person by state");
-		
+		logger.info("9. Sort Person by name");
 		logger.info("Enter number between 1 to 8 select option");
 		String option;
 		String choice;
@@ -84,6 +86,9 @@ public class AddressBook {
 			System.out.print("Enter state for which you want to view person  : ");
 			String state = scanner.nextLine();
 			viewAndCountPersonsByCityOrStateDictionary(state, "state");
+			break;
+		case "9":
+			sortByPersonasName();
 			break;
 		}
 	}
@@ -285,5 +290,10 @@ public class AddressBook {
 			System.out.println(personByState);
 			System.out.println("number of contact persons i.e. count by state ="+personByState.stream().count());
 		}
+	}
+	public void sortByPersonasName() {
+		ArrayList<Contact> sortedContact= (ArrayList<Contact>) contactList.stream().sorted(Comparator.comparing(Contact::getFirstName))
+				            .collect(Collectors.toList());
+		System.out.println("Sorted Contact List"+sortedContact);
 	}
 }
